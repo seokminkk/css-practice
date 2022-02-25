@@ -1,0 +1,22 @@
+body{
+    padding:1em; line-height: 1.6;
+}
+h2{
+    font-size: 30px; font-weight: bold; margin-bottom: 0.5em;
+}
+li{
+    list-style-type: disc; margin-left: 1.2em; padding-left: 0.8em;
+}
+a{
+    text-decoration: none; color:palevioletred; font-weight: bold;
+}
+div, p {
+margin-bottom: 1em;
+}
+.first {font-style: italic;}
+#second {
+    color: coral; font-weight: bold; line-height: 1;
+}
+.third{
+    color: gray; text-decoration: underline;
+}
