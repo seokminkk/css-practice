@@ -1,0 +1,15 @@
+/* 
+.item1-1{
+    position: relative;
+}
+
+.hoverimg1{
+    display:block;
+}
+.hovertext1{
+position: absolute; opacity: 0;
+}
+.item1-1:hover .hovertext1{
+    opacity: 1;
+}
+*/
